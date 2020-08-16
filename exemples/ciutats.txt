@@ -1,0 +1,948 @@
+"codi";"nom";"valor"
+"080018";"Abrera";96
+"080023";"Aguilar de Segarra";15
+"080039";"Alella";285
+"080044";"Alpens";158
+"080057";"l'Ametlla del Vallès";469
+"080060";"Arenys de Mar";479
+"080076";"Arenys de Munt";244
+"080082";"Argençola";273
+"080095";"Argentona";165
+"080109";"Artés";285
+"080116";"Avià";87
+"080121";"Avinyó";383
+"080137";"Avinyonet del Penedès";385
+"080142";"Aiguafreda";402
+"080155";"Badalona";433
+"080168";"Bagà";85
+"080174";"Balenyà";474
+"080180";"Balsareny";444
+"080193";"Barcelona";290
+"080207";"Begues";309
+"080214";"Bellprat";160
+"080229";"Berga";56
+"080235";"Bigues i Riells";183
+"080240";"Borredà";451
+"080253";"el Bruc";461
+"080266";"el Brull";320
+"080272";"les Cabanyes";63
+"080288";"Cabrera d'Anoia";473
+"080291";"Cabrera de Mar";455
+"080305";"Cabrils";120
+"080312";"Calaf";234
+"080327";"Caldes d'Estrac";152
+"080333";"Caldes de Montbui";141
+"080348";"Calders";377
+"080351";"Calella";468
+"080364";"Calonge de Segarra";57
+"080370";"Calldetenes";161
+"080386";"Callús";145
+"080399";"Campins";214
+"080403";"Canet de Mar";206
+"080410";"Canovelles";482
+"080425";"Cànoves i Samalús";435
+"080431";"Canyelles";244
+"080446";"Capellades";276
+"080459";"Capolat";404
+"080462";"Cardedeu";37
+"080478";"Cardona";387
+"080484";"Carme";296
+"080497";"Casserres";340
+"080500";"Castellar del Riu";207
+"080517";"Castellar del Vallès";490
+"080522";"Castellar de n'Hug";336
+"080538";"Castellbell i el Vilar";500
+"080543";"Castellbisbal";88
+"080556";"Castellcir";247
+"080569";"Castelldefels";120
+"080575";"Castell de l'Areny";358
+"080581";"Castellet i la Gornal";347
+"080594";"Castellfollit del Boix";404
+"080608";"Castellfollit de Riubregós";352
+"080615";"Castellgalí";342
+"080620";"Castellnou de Bages";472
+"080636";"Castellolí";26
+"080641";"Castellterçol";355
+"080654";"Castellví de la Marca";30
+"080667";"Castellví de Rosanes";372
+"080673";"Centelles";435
+"080689";"Cervelló";424
+"080692";"Collbató";353
+"080706";"Collsuspina";302
+"080713";"Copons";391
+"080728";"Corbera de Llobregat";18
+"080734";"Cornellà de Llobregat";350
+"080749";"Cubelles";454
+"080752";"Dosrius";44
+"080765";"Esparreguera";102
+"080771";"Esplugues de Llobregat";79
+"080787";"l'Espunyola";367
+"080790";"l'Estany";249
+"080804";"Fígols";355
+"080811";"Fogars de Montclús";77
+"080826";"Fogars de la Selva";205
+"080832";"Folgueroles";95
+"080847";"Fonollosa";175
+"080850";"Font-rubí";216
+"080863";"les Franqueses del Vallès";299
+"080879";"Gallifa";378
+"080885";"la Garriga";46
+"080898";"Gavà";352
+"080902";"Gaià";409
+"080919";"Gelida";405
+"080924";"Gironella";312
+"080930";"Gisclareny";370
+"080945";"la Granada";403
+"080958";"Granera";17
+"080961";"Granollers";3
+"080977";"Gualba";288
+"080983";"Sant Salvador de Guardiola";37
+"080996";"Guardiola de Berguedà";453
+"081000";"Gurb";398
+"081017";"l'Hospitalet de Llobregat";362
+"081022";"Igualada";183
+"081038";"Jorba";108
+"081043";"la Llacuna";300
+"081056";"la Llagosta";454
+"081069";"Llinars del Vallès";232
+"081075";"Lliçà d'Amunt";31
+"081081";"Lliçà de Vall";120
+"081094";"Lluçà";62
+"081108";"Malgrat de Mar";85
+"081115";"Malla";259
+"081120";"Manlleu";440
+"081136";"Manresa";65
+"081141";"Martorell";106
+"081154";"Martorelles";318
+"081167";"les Masies de Roda";380
+"081173";"les Masies de Voltregà";27
+"081189";"el Masnou";198
+"081192";"Masquefa";438
+"081206";"Matadepera";361
+"081213";"Mataró";346
+"081228";"Mediona";215
+"081234";"Molins de Rei";133
+"081249";"Mollet del Vallès";379
+"081252";"Montcada i Reixac";144
+"081265";"Montgat";180
+"081271";"Monistrol de Montserrat";53
+"081287";"Monistrol de Calders";142
+"081290";"Muntanyola";491
+"081304";"Montclar";43
+"081311";"Montesquiu";187
+"081326";"Montmajor";194
+"081332";"Montmaneu";244
+"081347";"Figaró-Montmany";211
+"081350";"Montmeló";412
+"081363";"Montornès del Vallès";307
+"081379";"Montseny";21
+"081385";"Moià";204
+"081398";"Mura";337
+"081402";"Navarcles";272
+"081419";"Navàs";199
+"081424";"la Nou de Berguedà";463
+"081430";"Òdena";104
+"081445";"Olvan";57
+"081458";"Olèrdola";333
+"081461";"Olesa de Bonesvalls";150
+"081477";"Olesa de Montserrat";334
+"081483";"Olivella";255
+"081496";"Olost";257
+"081509";"Orís";138
+"081516";"Oristà";223
+"081521";"Orpí";38
+"081537";"Òrrius";227
+"081542";"Pacs del Penedès";87
+"081555";"Palafolls";238
+"081568";"Palau-solità i Plegamans";137
+"081574";"Pallejà";207
+"081580";"el Papiol";197
+"081593";"Parets del Vallès";109
+"081607";"Perafita";69
+"081614";"Piera";322
+"081629";"els Hostalets de Pierola";74
+"081635";"Pineda de Mar";477
+"081640";"el Pla del Penedès";15
+"081653";"la Pobla de Claramunt";126
+"081666";"la Pobla de Lillet";377
+"081672";"Polinyà";189
+"081688";"Pontons";308
+"081691";"el Prat de Llobregat";332
+"081705";"els Prats de Rei";138
+"081712";"Prats de Lluçanès";133
+"081727";"Premià de Mar";223
+"081748";"Puigdàlber";347
+"081751";"Puig-reig";47
+"081764";"Pujalt";446
+"081770";"la Quar";95
+"081786";"Rajadell";4
+"081799";"Rellinars";347
+"081803";"Ripollet";479
+"081810";"la Roca del Vallès";388
+"081825";"el Pont de Vilomara i Rocafort";102
+"081831";"Roda de Ter";282
+"081846";"Rubí";433
+"081859";"Rubió";377
+"081878";"Sabadell";406
+"081884";"Sagàs";291
+"081897";"Sant Pere Sallavinera";431
+"081901";"Saldes";258
+"081918";"Sallent";158
+"081923";"Santpedor";259
+"081939";"Sant Iscle de Vallalta";251
+"081944";"Sant Adrià de Besòs";29
+"081957";"Sant Agustí de Lluçanès";123
+"081960";"Sant Andreu de la Barca";372
+"081976";"Sant Andreu de Llavaneres";461
+"081982";"Sant Antoni de Vilamajor";129
+"081995";"Sant Bartomeu del Grau";463
+"082009";"Sant Boi de Llobregat";273
+"082016";"Sant Boi de Lluçanès";168
+"082021";"Sant Celoni";312
+"082037";"Sant Cebrià de Vallalta";28
+"082042";"Sant Climent de Llobregat";102
+"082055";"Sant Cugat del Vallès";493
+"082068";"Sant Cugat Sesgarrigues";74
+"082074";"Sant Esteve de Palautordera";125
+"082080";"Sant Esteve Sesrovires";416
+"082093";"Sant Fost de Campsentelles";54
+"082107";"Sant Feliu de Codines";97
+"082114";"Sant Feliu de Llobregat";358
+"082129";"Sant Feliu Sasserra";367
+"082135";"Sant Fruitós de Bages";364
+"082140";"Vilassar de Dalt";268
+"082153";"Sant Hipòlit de Voltregà";7
+"082166";"Sant Jaume de Frontanyà";329
+"082172";"Sant Joan Despí";298
+"082188";"Sant Joan de Vilatorrada";220
+"082191";"Vilassar de Mar";279
+"082205";"Sant Julià de Vilatorta";133
+"082212";"Sant Just Desvern";138
+"082227";"Sant Llorenç d'Hortons";120
+"082233";"Sant Llorenç Savall";438
+"082248";"Sant Martí de Centelles";374
+"082251";"Sant Martí d'Albars";193
+"082264";"Sant Martí de Tous";305
+"082270";"Sant Martí Sarroca";64
+"082286";"Sant Martí Sesgueioles";446
+"082299";"Sant Mateu de Bages";202
+"082303";"Premià de Dalt";262
+"082310";"Sant Pere de Ribes";441
+"082325";"Sant Pere de Riudebitlles";444
+"082331";"Sant Pere de Torelló";380
+"082346";"Sant Pere de Vilamajor";328
+"082359";"Sant Pol de Mar";388
+"082362";"Sant Quintí de Mediona";488
+"082378";"Sant Quirze de Besora";125
+"082384";"Sant Quirze del Vallès";481
+"082397";"Sant Quirze Safaja";237
+"082401";"Sant Sadurní d'Anoia";18
+"082418";"Sant Sadurní d'Osormort";395
+"082423";"Marganell";207
+"082439";"Santa Cecília de Voltregà";38
+"082444";"Santa Coloma de Cervelló";468
+"082457";"Santa Coloma de Gramenet";287
+"082460";"Santa Eugènia de Berga";158
+"082476";"Santa Eulàlia de Riuprimer";162
+"082482";"Santa Eulàlia de Ronçana";333
+"082495";"Santa Fe del Penedès";55
+"082508";"Santa Margarida de Montbui";180
+"082515";"Santa Margarida i els Monjos";382
+"082520";"Barberà del Vallès";156
+"082536";"Santa Maria de Besora";149
+"082541";"l'Esquirol";265
+"082554";"Santa Maria de Merlès";286
+"082567";"Santa Maria de Martorelles";260
+"082573";"Santa Maria de Miralles";179
+"082589";"Santa Maria d'Oló";269
+"082592";"Santa Maria de Palautordera";209
+"082606";"Santa Perpètua de Mogoda";33
+"082613";"Santa Susanna";443
+"082628";"Sant Vicenç de Castellet";36
+"082634";"Sant Vicenç dels Horts";332
+"082649";"Sant Vicenç de Montalt";352
+"082652";"Sant Vicenç de Torelló";438
+"082665";"Cerdanyola del Vallès";317
+"082671";"Sentmenat";488
+"082687";"Cercs";235
+"082690";"Seva";492
+"082704";"Sitges";327
+"082711";"Sobremunt";415
+"082726";"Sora";158
+"082732";"Subirats";249
+"082747";"Súria";332
+"082750";"Tavèrnoles";42
+"082763";"Tagamanent";91
+"082779";"Talamanca";69
+"082785";"Taradell";52
+"082798";"Terrassa";265
+"082802";"Tavertet";411
+"082819";"Teià";384
+"082824";"Tiana";430
+"082830";"Tona";452
+"082845";"Tordera";99
+"082858";"Torelló";341
+"082861";"la Torre de Claramunt";241
+"082877";"Torrelavit";282
+"082883";"Torrelles de Foix";179
+"082896";"Torrelles de Llobregat";457
+"082900";"Ullastrell";341
+"082917";"Vacarisses";128
+"082922";"Vallbona d'Anoia";182
+"082938";"Vallcebre";76
+"082943";"Vallgorguina";375
+"082956";"Vallirana";183
+"082969";"Vallromanes";44
+"082975";"Veciana";376
+"082981";"Vic";4
+"082994";"Vilada";139
+"083008";"Viladecavalls";333
+"083015";"Viladecans";476
+"083020";"Vilanova del Camí";77
+"083036";"Vilanova de Sau";323
+"083041";"Vilobí del Penedès";61
+"083054";"Vilafranca del Penedès";372
+"083067";"Vilalba Sasserra";342
+"083073";"Vilanova i la Geltrú";486
+"083089";"Viver i Serrateix";438
+"089019";"Rupit i Pruit";313
+"089024";"Vilanova del Vallès";348
+"089030";"Sant Julià de Cerdanyola";24
+"089045";"Badia del Vallès";370
+"089058";"la Palma de Cervelló";6
+"170010";"Agullana";267
+"170025";"Aiguaviva";76
+"170031";"Albanyà";233
+"170046";"Albons";24
+"170059";"el Far d'Empordà";241
+"170062";"Alp";164
+"170078";"Amer";372
+"170084";"Anglès";82
+"170097";"Arbúcies";153
+"170101";"Argelaguer";384
+"170118";"l'Armentera";288
+"170123";"Avinyonet de Puigventós";68
+"170139";"Begur";392
+"170144";"la Vajol";389
+"170157";"Banyoles";1
+"170160";"Bàscara";194
+"170182";"Bellcaire d'Empordà";124
+"170195";"Besalú";25
+"170209";"Bescanó";165
+"170216";"Beuda";264
+"170221";"la Bisbal d'Empordà";330
+"170237";"Blanes";420
+"170242";"Bolvir";89
+"170255";"Bordils";366
+"170268";"Borrassà";269
+"170274";"Breda";355
+"170280";"Brunyola i Sant Martí Sapresa";184
+"170293";"Boadella i les Escaules";465
+"170307";"Cabanes";275
+"170314";"Cabanelles";150
+"170329";"Cadaqués";387
+"170335";"Caldes de Malavella";110
+"170340";"Calonge i Sant Antoni";251
+"170353";"Camós";282
+"170366";"Campdevànol";389
+"170372";"Campelles";130
+"170388";"Campllong";96
+"170391";"Camprodon";180
+"170405";"Canet d'Adri";70
+"170412";"Cantallops";193
+"170427";"Capmany";459
+"170433";"Queralbs";431
+"170448";"Cassà de la Selva";4
+"170464";"Castellfollit de la Roca";391
+"170470";"Castelló d'Empúries";91
+"170486";"Castell-Platja d'Aro";292
+"170499";"Celrà";89
+"170502";"Cervià de Ter";202
+"170519";"Cistella";92
+"170524";"Siurana";147
+"170545";"Colera";69
+"170558";"Colomers";461
+"170561";"Cornellà del Terri";442
+"170577";"Corçà";225
+"170583";"Crespià";14
+"170600";"Darnius";411
+"170617";"Das";216
+"170622";"l'Escala";202
+"170638";"Espinelves";425
+"170643";"Espolla";404
+"170656";"Esponellà";183
+"170669";"Figueres";182
+"170675";"Flaçà";86
+"170681";"Foixà";168
+"170694";"Fontanals de Cerdanya";93
+"170708";"Fontanilles";279
+"170715";"Fontcoberta";246
+"170736";"Fornells de la Selva";420
+"170741";"Fortià";90
+"170754";"Garrigàs";429
+"170767";"Garrigoles";247
+"170773";"Garriguella";437
+"170789";"Ger";452
+"170792";"Girona";41
+"170806";"Gombrèn";33
+"170813";"Gualta";461
+"170828";"Guils de Cerdanya";84
+"170834";"Hostalric";315
+"170849";"Isòvol";65
+"170852";"Jafre";6
+"170865";"la Jonquera";119
+"170871";"Juià";257
+"170887";"Lladó";452
+"170890";"Llagostera";281
+"170904";"Llambilles";438
+"170911";"Llanars";26
+"170926";"Llançà";437
+"170932";"Llers";112
+"170947";"Llívia";236
+"170950";"Lloret de Mar";60
+"170963";"les Llosses";476
+"170979";"Madremanya";66
+"170985";"Maià de Montcal";462
+"170998";"Meranges";492
+"171002";"Masarac";87
+"171019";"Massanes";314
+"171024";"Maçanet de Cabrenys";277
+"171030";"Maçanet de la Selva";254
+"171058";"Mieres";405
+"171061";"Mollet de Peralada";409
+"171077";"Molló";117
+"171096";"Montagut i Oix";487
+"171100";"Mont-ras";485
+"171117";"Navata";389
+"171122";"Ogassa";192
+"171143";"Olot";489
+"171156";"Ordis";6
+"171169";"Osor";215
+"171175";"Palafrugell";376
+"171181";"Palamós";359
+"171194";"Palau de Santa Eulàlia";56
+"171208";"Palau-saverdera";243
+"171215";"Palau-sator";140
+"171236";"Palol de Revardit";118
+"171241";"Pals";461
+"171254";"Pardines";138
+"171267";"Parlavà";207
+"171289";"Pau";411
+"171292";"Pedret i Marzà";244
+"171306";"la Pera";296
+"171328";"Peralada";31
+"171334";"les Planes d'Hostoles";69
+"171349";"Planoles";372
+"171352";"Pont de Molins";178
+"171365";"Pontós";141
+"171371";"Porqueres";32
+"171387";"Portbou";231
+"171390";"les Preses";40
+"171404";"el Port de la Selva";303
+"171411";"Puigcerdà";421
+"171426";"Quart";294
+"171432";"Rabós";52
+"171447";"Regencós";175
+"171450";"Ribes de Freser";493
+"171463";"Riells i Viabrea";32
+"171479";"Ripoll";400
+"171485";"Riudarenes";116
+"171498";"Riudaura";86
+"171501";"Riudellots de la Selva";275
+"171518";"Riumors";149
+"171523";"Roses";188
+"171539";"Rupià";210
+"171544";"Sales de Llierca";273
+"171557";"Salt";3
+"171576";"Sant Andreu Salou";312
+"171582";"Sant Climent Sescebes";51
+"171595";"Sant Feliu de Buixalleu";449
+"171609";"Sant Feliu de Guíxols";60
+"171616";"Sant Feliu de Pallerols";252
+"171621";"Sant Ferriol";388
+"171637";"Sant Gregori";230
+"171642";"Sant Hilari Sacalm";143
+"171655";"Sant Jaume de Llierca";195
+"171668";"Sant Jordi Desvalls";430
+"171674";"Sant Joan de les Abadesses";66
+"171680";"Sant Joan de Mollet";353
+"171693";"Sant Julià de Ramis";460
+"171707";"Vallfogona de Ripollès";288
+"171714";"Sant Llorenç de la Muga";411
+"171729";"Sant Martí de Llémena";266
+"171735";"Sant Martí Vell";399
+"171740";"Sant Miquel de Campmajor";452
+"171753";"Sant Miquel de Fluvià";455
+"171766";"Sant Mori";81
+"171772";"Sant Pau de Segúries";289
+"171788";"Sant Pere Pescador";265
+"171805";"Santa Coloma de Farners";343
+"171812";"Santa Cristina d'Aro";211
+"171827";"Santa Llogaia d'Àlguema";343
+"171833";"Sant Aniol de Finestres";316
+"171848";"Santa Pau";377
+"171851";"Sant Joan les Fonts";400
+"171864";"Sarrià de Ter";193
+"171870";"Saus, Camallera i Llampaies";397
+"171886";"la Selva de Mar";74
+"171899";"la Cellera de Ter";141
+"171903";"Serinyà";414
+"171910";"Serra de Daró";205
+"171925";"Setcases";118
+"171931";"Sils";203
+"171946";"Susqueda";105
+"171959";"la Tallada d'Empordà";356
+"171962";"Terrades";31
+"171978";"Torrent";353
+"171984";"Torroella de Fluvià";265
+"171997";"Torroella de Montgrí";267
+"172001";"Tortellà";337
+"172018";"Toses";139
+"172023";"Tossa de Mar";289
+"172039";"Ultramort";75
+"172044";"Ullà";409
+"172057";"Ullastret";337
+"172060";"Urús";17
+"172076";"la Vall d'en Bas";96
+"172082";"la Vall de Bianya";263
+"172095";"Vall-llobrega";20
+"172109";"Ventalló";249
+"172116";"Verges";257
+"172121";"Vidrà";312
+"172137";"Vidreres";370
+"172142";"Vilabertran";469
+"172155";"Vilablareix";456
+"172168";"Viladasens";91
+"172174";"Viladamat";360
+"172180";"Vilademuls";168
+"172207";"Viladrau";449
+"172214";"Vilafant";100
+"172229";"Vilaür";178
+"172235";"Vilajuïga";191
+"172240";"Vilallonga de Ter";180
+"172253";"Vilamacolum";495
+"172266";"Vilamalla";419
+"172272";"Vilamaniscle";251
+"172288";"Vilanant";430
+"172305";"Vila-sacra";351
+"172327";"Vilopriu";219
+"172333";"Vilobí d'Onyar";322
+"172348";"Biure";276
+"179011";"Cruïlles, Monells i Sant Sadurní de l'Heura";101
+"179026";"Forallac";266
+"179032";"Sant Julià del Llor i Bonmatí";71
+"250019";"Abella de la Conca";489
+"250024";"Àger";213
+"250030";"Agramunt";10
+"250045";"els Alamús";155
+"250058";"Alàs i Cerc";419
+"250061";"l'Albagés";167
+"250077";"Albatàrrec";119
+"250083";"Albesa";95
+"250096";"l'Albi";485
+"250100";"Alcanó";398
+"250117";"Alcarràs";180
+"250122";"Alcoletge";183
+"250138";"Alfarràs";92
+"250143";"Alfés";57
+"250156";"Algerri";223
+"250169";"Alguaire";400
+"250175";"Alins";301
+"250194";"Almacelles";126
+"250208";"Almatret";387
+"250215";"Almenar";56
+"250220";"Alòs de Balaguer";330
+"250236";"Alpicat";215
+"250241";"Alt Àneu";62
+"250254";"Naut Aran";360
+"250273";"Anglesola";254
+"250292";"Arbeca";146
+"250306";"el Pont de Bar";110
+"250313";"Arres";17
+"250328";"Arsèguel";133
+"250334";"Artesa de Lleida";368
+"250349";"Artesa de Segre";19
+"250352";"la Sentiu de Sió";314
+"250365";"Aspa";86
+"250371";"les Avellanes i Santa Linya";17
+"250387";"Aitona";234
+"250390";"Baix Pallars";231
+"250404";"Balaguer";225
+"250411";"Barbens";367
+"250426";"la Baronia de Rialb";93
+"250432";"la Vall de Boí";410
+"250447";"Bassella";374
+"250450";"Bausen";235
+"250463";"Belianes";244
+"250479";"Bellcaire d'Urgell";332
+"250485";"Bell-lloc d'Urgell";40
+"250498";"Bellmunt d'Urgell";196
+"250501";"Bellpuig";407
+"250518";"Bellver de Cerdanya";26
+"250523";"Bellvís";404
+"250539";"Benavent de Segrià";129
+"250557";"Biosca";19
+"250560";"Bovera";304
+"250576";"Es Bòrdes";399
+"250582";"les Borges Blanques";184
+"250595";"Bossòst";40
+"250609";"Cabanabona";118
+"250616";"Cabó";483
+"250621";"Camarasa";302
+"250637";"Canejan";181
+"250642";"Castellar de la Ribera";243
+"250674";"Castelldans";365
+"250680";"Castellnou de Seana";175
+"250693";"Castelló de Farfanya";165
+"250707";"Castellserà";199
+"250714";"Cava";328
+"250729";"Cervera";146
+"250735";"Cervià de les Garrigues";55
+"250740";"Ciutadilla";308
+"250753";"Clariana de Cardener";319
+"250766";"el Cogul";240
+"250772";"Coll de Nargó";249
+"250788";"Corbins";36
+"250791";"Cubells";496
+"250812";"l'Espluga Calba";402
+"250827";"Espot";10
+"250851";"Estaràs";193
+"250864";"Esterri d'Àneu";373
+"250870";"Esterri de Cardós";268
+"250886";"Estamariu";231
+"250899";"Farrera";137
+"250925";"la Floresta";365
+"250931";"Fondarella";479
+"250946";"Foradada";241
+"250962";"la Fuliola";67
+"250978";"Fulleda";218
+"250984";"Gavet de la Conca";333
+"250997";"Golmés";154
+"251001";"Gósol";224
+"251018";"la Granadella";490
+"251023";"la Granja d'Escarp";348
+"251039";"Granyanella";174
+"251044";"Granyena de Segarra";282
+"251057";"Granyena de les Garrigues";89
+"251095";"Guimerà";344
+"251109";"Guissona";186
+"251116";"Guixers";234
+"251121";"Ivars de Noguera";453
+"251137";"Ivars d'Urgell";75
+"251142";"Ivorra";478
+"251155";"Isona i Conca Dellà";459
+"251180";"Juncosa";500
+"251193";"Juneda";287
+"251207";"Lleida";103
+"251214";"Les";282
+"251229";"Linyola";445
+"251235";"Lladorre";470
+"251240";"Lladurs";399
+"251253";"Llardecans";339
+"251266";"Llavorsí";105
+"251272";"Lles de Cerdanya";344
+"251288";"Llimiana";137
+"251291";"Llobera";232
+"251305";"Maldà";231
+"251312";"Massalcoreig";497
+"251327";"Massoteres";247
+"251333";"Maials";418
+"251348";"Menàrguens";418
+"251351";"Miralcamp";499
+"251364";"la Molsosa";493
+"251370";"Mollerussa";92
+"251386";"Montgai";104
+"251399";"Montellà i Martinet";432
+"251403";"Montferrer i Castellbò";360
+"251410";"Montoliu de Segarra";265
+"251425";"Montoliu de Lleida";488
+"251431";"Montornès de Segarra";187
+"251459";"Nalec";201
+"251462";"Navès";193
+"251484";"Odèn";374
+"251497";"Oliana";415
+"251500";"Oliola";3
+"251517";"Olius";123
+"251522";"les Oluges";142
+"251538";"els Omellons";102
+"251543";"els Omells de na Gaia";379
+"251556";"Organyà";422
+"251569";"Os de Balaguer";128
+"251575";"Ossó de Sió";40
+"251581";"el Palau d'Anglesola";15
+"251615";"Conca de Dalt";60
+"251636";"la Coma i la Pedra";488
+"251641";"Penelles";224
+"251654";"Peramola";89
+"251667";"Pinell de Solsonès";152
+"251673";"Pinós";368
+"251689";"el Poal";103
+"251692";"la Pobla de Cérvoles";320
+"251706";"Bellaguarda";448
+"251713";"la Pobla de Segur";101
+"251728";"Ponts";400
+"251734";"el Pont de Suert";159
+"251749";"la Portella";424
+"251752";"Prats i Sansor";452
+"251765";"Preixana";387
+"251771";"Preixens";300
+"251790";"Prullans";49
+"251804";"Puiggròs";105
+"251811";"Puigverd d'Agramunt";38
+"251826";"Puigverd de Lleida";287
+"251832";"Rialp";59
+"251850";"Ribera d'Urgellet";55
+"251863";"Riner";66
+"251898";"Rosselló";163
+"251902";"Salàs de Pallars";274
+"251919";"Sanaüja";459
+"251924";"Sant Guim de Freixenet";496
+"251930";"Sant Llorenç de Morunys";102
+"251945";"Sant Ramon";5
+"251961";"Sant Esteve de la Sarga";282
+"251977";"Sant Guim de la Plana";41
+"252000";"Sarroca de Lleida";298
+"252017";"Sarroca de Bellera";209
+"252022";"Senterada";394
+"252038";"la Seu d'Urgell";481
+"252043";"Seròs";14
+"252056";"Sidamon";382
+"252069";"el Soleràs";376
+"252075";"Solsona";493
+"252081";"Soriguera";114
+"252094";"Sort";154
+"252108";"Soses";411
+"252115";"Sudanell";385
+"252120";"Sunyer";359
+"252154";"Talarn";94
+"252167";"Talavera";240
+"252173";"Tàrrega";249
+"252189";"Tarrés";472
+"252192";"Tarroja de Segarra";137
+"252206";"Térmens";312
+"252213";"Tírvia";217
+"252228";"Tiurana";246
+"252234";"Torà";457
+"252249";"els Torms";272
+"252252";"Tornabous";24
+"252265";"Torrebesses";69
+"252271";"la Torre de Cabdella";436
+"252287";"Torrefarrera";449
+"252304";"Torregrossa";141
+"252311";"Torrelameu";189
+"252326";"Torres de Segre";278
+"252332";"Torre-serona";62
+"252347";"Tremp";36
+"252385";"Vallbona de les Monges";172
+"252398";"les Valls de Valira";414
+"252402";"Vallfogona de Balaguer";296
+"252424";"Verdú";85
+"252430";"Vielha e Mijaran";323
+"252445";"Vilagrassa";449
+"252458";"Vilaller";185
+"252477";"Vilamòs";163
+"252483";"Vilanova de Bellpuig";385
+"252496";"Vilanova de l'Aguda";285
+"252509";"Vilanova de Meià";414
+"252516";"Vilanova de Segrià";333
+"252521";"Vila-sana";261
+"252537";"el Vilosell";75
+"252542";"Vilanova de la Barca";403
+"252555";"Vinaixa";46
+"259010";"Vall de Cardós";111
+"259025";"Sant Martí de Riucorb";477
+"259031";"la Guingueta d'Àneu";167
+"259046";"Castell de Mur";446
+"259059";"Ribera d'Ondara";401
+"259062";"les Valls d'Aguilar";239
+"259078";"Torrefeta i Florejacs";159
+"259084";"Fígols i Alinyà";480
+"259097";"la Vansa i Fórnols";146
+"259101";"Josa i Tuixén";429
+"259118";"els Plans de Sió";496
+"259123";"Gimenells i el Pla de la Font";76
+"259139";"Riu de Cerdanya";452
+"430017";"Aiguamúrcia";44
+"430022";"Albinyana";353
+"430038";"l'Albiol";25
+"430043";"Alcanar";200
+"430056";"Alcover";12
+"430069";"Aldover";334
+"430075";"l'Aleixar";288
+"430081";"Alfara de Carles";313
+"430094";"Alforja";322
+"430108";"Alió";153
+"430115";"Almoster";24
+"430120";"Altafulla";2
+"430136";"l'Ametlla de Mar";238
+"430141";"Amposta";30
+"430154";"Arbolí";467
+"430167";"l'Arboç";321
+"430173";"l'Argentera";274
+"430189";"Arnes";277
+"430192";"Ascó";475
+"430206";"Banyeres del Penedès";460
+"430213";"Barberà de la Conca";274
+"430228";"Batea";28
+"430234";"Bellmunt del Priorat";317
+"430249";"Bellvei";212
+"430252";"Benifallet";24
+"430265";"Benissanet";287
+"430271";"la Bisbal de Falset";423
+"430287";"la Bisbal del Penedès";424
+"430290";"Blancafort";262
+"430304";"Bonastre";454
+"430311";"les Borges del Camp";197
+"430326";"Bot";315
+"430332";"Botarell";445
+"430347";"Bràfim";447
+"430350";"Cabacés";95
+"430363";"Cabra del Camp";159
+"430379";"Calafell";223
+"430385";"Cambrils";479
+"430398";"Capafonts";48
+"430402";"Capçanes";14
+"430419";"Caseres";102
+"430424";"Castellvell del Camp";478
+"430430";"el Catllar";483
+"430445";"la Sénia";345
+"430458";"Colldejou";360
+"430461";"Conesa";144
+"430477";"Constantí";399
+"430483";"Corbera d'Ebre";431
+"430496";"Cornudella de Montsant";154
+"430509";"Creixell";216
+"430516";"Cunit";242
+"430521";"Xerta";354
+"430537";"Duesaigües";494
+"430542";"l'Espluga de Francolí";421
+"430555";"Falset";377
+"430568";"la Fatarella";196
+"430574";"la Febró";399
+"430580";"la Figuera";380
+"430593";"Figuerola del Camp";373
+"430607";"Flix";370
+"430614";"Forès";409
+"430629";"Freginals";128
+"430635";"la Galera";392
+"430640";"Gandesa";37
+"430653";"Garcia";161
+"430666";"els Garidells";401
+"430672";"Ginestar";176
+"430688";"Godall";358
+"430691";"Gratallops";155
+"430705";"els Guiamets";10
+"430712";"Horta de Sant Joan";297
+"430727";"el Lloar";155
+"430733";"Llorac";221
+"430748";"Llorenç del Penedès";300
+"430751";"Margalef";312
+"430764";"Marçà";490
+"430770";"Mas de Barberans";397
+"430786";"Masdenverge";60
+"430799";"Masllorenç";468
+"430803";"la Masó";489
+"430810";"Maspujols";352
+"430825";"el Masroig";74
+"430831";"el Milà";497
+"430846";"Miravet";48
+"430859";"el Molar";138
+"430862";"Montblanc";380
+"430884";"Montbrió del Camp";252
+"430897";"Montferri";451
+"430901";"el Montmell";180
+"430918";"Mont-ral";428
+"430923";"Mont-roig del Camp";231
+"430939";"Móra d'Ebre";385
+"430944";"Móra la Nova";69
+"430957";"el Morell";17
+"430960";"la Morera de Montsant";479
+"430976";"la Nou de Gaià";476
+"430982";"Nulles";448
+"430995";"la Palma d'Ebre";384
+"431009";"els Pallaresos";34
+"431016";"Passanant i Belltall";308
+"431021";"Paüls";187
+"431037";"Perafort";168
+"431042";"el Perelló";64
+"431055";"les Piles";153
+"431068";"el Pinell de Brai";157
+"431074";"Pira";319
+"431080";"el Pla de Santa Maria";394
+"431093";"la Pobla de Mafumet";292
+"431107";"la Pobla de Massaluca";261
+"431114";"la Pobla de Montornès";25
+"431129";"Poboleda";218
+"431135";"el Pont d'Armentera";388
+"431140";"Porrera";480
+"431153";"Pradell de la Teixeta";423
+"431166";"Prades";336
+"431172";"Prat de Comte";164
+"431188";"Pratdip";349
+"431191";"Puigpelat";115
+"431205";"Querol";391
+"431212";"Rasquera";334
+"431227";"Renau";240
+"431233";"Reus";442
+"431248";"la Riba";320
+"431251";"Riba-roja d'Ebre";161
+"431264";"la Riera de Gaià";178
+"431270";"Riudecanyes";458
+"431286";"Riudecols";271
+"431299";"Riudoms";399
+"431303";"Rocafort de Queralt";327
+"431310";"Roda de Berà";212
+"431325";"Rodonyà";463
+"431331";"Roquetes";291
+"431346";"el Rourell";352
+"431359";"Salomó";111
+"431362";"Sant Carles de la Ràpita";103
+"431378";"Sant Jaume dels Domenys";111
+"431384";"Santa Bàrbara";430
+"431397";"Santa Coloma de Queralt";304
+"431401";"Santa Oliva";362
+"431418";"Pontils";39
+"431423";"Sarral";65
+"431439";"Savallà del Comtat";263
+"431444";"la Secuita";115
+"431457";"la Selva del Camp";324
+"431460";"Senan";106
+"431476";"Solivella";203
+"431482";"Tarragona";448
+"431495";"Tivenys";406
+"431508";"Tivissa";59
+"431515";"la Torre de Fontaubella";183
+"431520";"la Torre de l'Espanyol";394
+"431536";"Torredembarra";113
+"431541";"Torroja del Priorat";242
+"431554";"Tortosa";5
+"431567";"Ulldecona";373
+"431573";"Ulldemolins";411
+"431589";"Vallclara";124
+"431592";"Vallfogona de Riucorb";41
+"431606";"Vallmoll";390
+"431613";"Valls";289
+"431628";"Vandellòs i l'Hospitalet de l'Infant";105
+"431634";"el Vendrell";77
+"431649";"Vespella de Gaià";286
+"431652";"Vilabella";472
+"431665";"Vilallonga del Camp";52
+"431671";"Vilanova d'Escornalbou";14
+"431687";"Vilanova de Prades";414
+"431690";"Vilaplana";258
+"431704";"Vila-rodona";428
+"431711";"Vila-seca";374
+"431726";"Vilaverd";497
+"431732";"la Vilella Alta";209
+"431747";"la Vilella Baixa";183
+"431750";"Vilalba dels Arcs";431
+"431763";"Vimbodí i Poblet";89
+"431779";"Vinebre";73
+"431785";"Vinyols i els Arcs";157
+"439018";"Deltebre";102
+"439023";"Sant Jaume d'Enveja";119
+"439039";"Camarles";310
+"439044";"l'Aldea";234
+"439057";"Salou";207
+"439060";"l'Ampolla";183
+"439076";"la Canonja";387

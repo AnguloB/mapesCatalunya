@@ -1,0 +1,8 @@
+"codi";"nom";"valor"
+61;"Lleida";470
+62;"Camp de Tarragona";143
+63;"Terres de l'Ebre";299
+64;"Girona";220
+67;"Catalunya Central";381
+71;"Alt Pirineu i Aran";112
+78;"Barcelona";184

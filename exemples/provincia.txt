@@ -1,0 +1,5 @@
+"codi";"nom";"valor"
+"08";"Barcelona";255
+"17";"Girona";149
+"25";"Lleida";223
+"43";"Tarragona";405

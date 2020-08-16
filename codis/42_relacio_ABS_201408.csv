@@ -1,0 +1,375 @@
+"codi","nom"
+"001","Agramunt"
+"002",NA
+"003",NA
+"004","Amposta"
+"005",NA
+"007","Aran"
+"008",NA
+"009","Arenys de Mar"
+"010","Argentona"
+"011",NA
+"012","Artesa de Segre"
+"013","El Vendrell"
+"014","Balaguer"
+"015","Banyoles"
+"016","Barcelona - 01A"
+"017","Barcelona - 01B"
+"018","Barcelona - 01C"
+"019","Barcelona - 01D"
+"020","Barcelona - 01E"
+"021","Barcelona - 02A"
+"022","Barcelona - 02B"
+"023","Barcelona - 02C"
+"024","Barcelona - 02D"
+"025","Barcelona - 02E"
+"027","Barcelona - 02G"
+"028","Barcelona - 02H"
+"029","Barcelona - 02I"
+"030","Barcelona - 02J"
+"031","Barcelona - 02K"
+"032","Barcelona - 03A"
+"033","Barcelona - 03B"
+"034","Barcelona - 03C"
+"035","Barcelona - 03D"
+"036","Barcelona - 03E"
+"038","Barcelona - 03G"
+"039","Barcelona - 04A"
+"040","Barcelona - 04B"
+"041","Barcelona - 04C"
+"042","Barcelona - 05A"
+"043","Barcelona - 05B"
+"044","Barcelona - 05C"
+"045","Barcelona - 05D"
+"046","Barcelona - 05E"
+"047","Barcelona - 06A"
+"048","Barcelona - 06B"
+"049","Barcelona - 06C"
+"050","Barcelona - 06D"
+"051","Barcelona - 07A"
+"052","Barcelona - 07B"
+"053","Barcelona - 07C"
+"054","Barcelona - 07D"
+"055","Barcelona - 07E"
+"056","Barcelona - 07F"
+"059","Barcelona - 08C"
+"062","Barcelona - 08F"
+"063","Barcelona - 08G"
+"064","Barcelona - 08H"
+"065","Barcelona - 09A"
+"067","Barcelona - 09C"
+"069","Barcelona - 09E"
+"070","Barcelona - 09F"
+"071","Barcelona - 10A"
+"072","Barcelona - 10B"
+"073","Barcelona - 10C"
+"074","Barcelona - 10D"
+"075","Barcelona - 10E"
+"076","Barcelona - 10F"
+"077","Barcelona - 10G"
+"078","Barcelona - 10H"
+"079","Barcelona - 10I"
+"080",NA
+"081","Bellpuig"
+"082","Berga"
+"083",NA
+"084",NA
+"085","Blanes"
+"086","Les Borges Blanques"
+"087","Les Borges del Camp"
+"088","Calaf"
+"089","Caldes de Montbui"
+"090","Calella"
+"091","Cambrils"
+"092","Camprodon"
+"093","Canet de Mar"
+"095","Cardedeu"
+"096","Cardona"
+"097",NA
+"098","Montserrat"
+"100",NA
+"101",NA
+"102","Centelles"
+"103","Cerdanya"
+"104",NA
+"105",NA
+"106","Cervera"
+"107",NA
+"108",NA
+"109",NA
+"110",NA
+"111",NA
+"112","Cornudella de Montsant"
+"113","Deltebre"
+"114","L'Escala"
+"115","Esparreguera"
+"116","Esplugues de Llobregat - 1"
+"117","Esplugues de Llobregat - 2"
+"118","Falset"
+"119","Figueres"
+"120","Flix"
+"121","La Garriga"
+"122",NA
+"123",NA
+"124","Girona - 1"
+"125","Girona - 2"
+"126","Girona - 3"
+"127","Girona - 4"
+"128",NA
+"129","La Granadella"
+"130",NA
+"131","Anoia rural"
+"133","La Jonquera"
+"134",NA
+"135","Lleida - 1"
+"136","Lleida - 2"
+"137","Lleida - 3"
+"138","Lleida - 4"
+"139","Lleida - 5"
+"140","Lleida - 6"
+"141","Lleida rural - 1 Nord"
+"142","Lloret de Mar"
+"143","Malgrat de Mar"
+"144","Manlleu"
+"145","Manresa - 1"
+"146","Manresa - 2"
+"147","Manresa - 3"
+"148","Manresa - 4"
+"149","Martorell"
+"150","Martorelles"
+"152",NA
+"153",NA
+"154",NA
+"155",NA
+"156",NA
+"157",NA
+"158",NA
+"159",NA
+"160","Molins de Rei"
+"161","Pla d'Urgell"
+"162","Montblanc"
+"163","Mont-roig del Camp"
+"164",NA
+"165",NA
+"166","El Morell"
+"167",NA
+"168","Olesa de Montserrat"
+"169","Alt Urgell Sud"
+"171","Olot"
+"172","Palafrugell"
+"173",NA
+"174",NA
+"175",NA
+"176",NA
+"177","Peralada"
+"178",NA
+"179","La Pobla de Segur"
+"180",NA
+"181","Ponts"
+"182","El Prat de Llobregat - 1"
+"183","El Prat de Llobregat - 2"
+"184","El Prat de Llobregat - 3"
+"185",NA
+"186",NA
+"187","Ripoll - Sant Joan de les Abadesses"
+"188","Riudoms"
+"189","Roses"
+"190","Sabadell - 1A"
+"191","Sabadell - 1B"
+"192","Sabadell - 2"
+"193","Sabadell - 3A"
+"194","Sabadell - 3B"
+"196","Sabadell - 5"
+"197","Sabadell - 6"
+"198","Sabadell - 7"
+"199","Salt"
+"200","Sallent"
+"201","Sant Andreu de la Barca"
+"202","Sant Boi de Llobregat - 1"
+"203","Sant Boi de Llobregat - 2"
+"204","Sant Boi de Llobregat - 3"
+"205","Sant Boi de Llobregat - 4"
+"206",NA
+"207","Sant Celoni"
+"208",NA
+"209","Sant Feliu de Llobregat - 1"
+"210","Sant Feliu de Llobregat - 2"
+"211",NA
+"212",NA
+"213",NA
+"214",NA
+"215","Sant Joan de Vilatorrada"
+"216","Sant Just Desvern"
+"217","Sant Quirze de Besora"
+"218",NA
+"219",NA
+"221","Santa Coloma de Farners"
+"222","Santa Coloma de Gramenet - 1"
+"223","Santa Coloma de Gramenet - 2"
+"224","Santa Coloma de Gramenet - 3"
+"225","Santa Coloma de Gramenet - 4"
+"226","Santa Coloma de Gramenet - 5"
+"228","Santa Coloma de Queralt"
+"229","Santa Margarida de Montbui"
+"230",NA
+"231",NA
+"232",NA
+"233","La Seu d'Urgell"
+"234",NA
+"235","Sitges"
+"236",NA
+"237",NA
+"238",NA
+"239","Tarragona - 1"
+"240","Tarragona - 2"
+"241","Tarragona - 3"
+"242","Tarragona - 4"
+"243","Tarragona - 5"
+"244","Tarragona - 6"
+"245",NA
+"246","Terra Alta"
+"247","Terrassa - A"
+"248","Terrassa - B"
+"249","Terrassa - C"
+"250","Terrassa - D"
+"251","Terrassa - E"
+"252","Terrassa - F"
+"253","Tona"
+"254","La Vall del Ges"
+"255","Tortosa - 1 Est"
+"256","Tortosa - 2 Oest"
+"257","Torredembarra"
+"258",NA
+"259","Tremp"
+"260","Ulldecona"
+"261","Vallirana"
+"262","Alt Camp Est"
+"263",NA
+"265","Viladecans - 1"
+"266","Viladecans - 2"
+"267","Vilafant"
+"269",NA
+"271","Vilassar de Mar"
+"272","Badalona - 01"
+"273","Badalona - 02"
+"274","Badalona - 03"
+"275","Badalona - 04"
+"276","Badalona - 05"
+"277","Badalona - 06"
+"279","Badalona - 08"
+"280","Badalona - 09"
+"281","Badalona - 10"
+"282","Badalona - 11"
+"283","Badalona - 12"
+"284","Granollers - 1 Oest"
+"285","Granollers - 2 Nord"
+"286","Granollers - 3 Centre Est"
+"287","Granollers - 4 Sud"
+"288","L'Hospitalet de Llobregat - 01"
+"289","L'Hospitalet de Llobregat - 02"
+"290","L'Hospitalet de Llobregat - 03"
+"291","L'Hospitalet de Llobregat - 04"
+"292","L'Hospitalet de Llobregat - 05"
+"293","L'Hospitalet de Llobregat - 06"
+"294","L'Hospitalet de Llobregat - 07"
+"295","L'Hospitalet de Llobregat - 08"
+"296","L'Hospitalet de Llobregat - 09"
+"297","L'Hospitalet de Llobregat - 10"
+"298","L'Hospitalet de Llobregat - 11"
+"299","L'Hospitalet de Llobregat - 12"
+"300","La Llagosta"
+"303","Reus - 1"
+"304","Reus - 2"
+"305","Reus - 3"
+"306","Reus - 4"
+"307","Reus - 5"
+"309",NA
+"310",NA
+"311",NA
+"312",NA
+"314",NA
+"315","Vall del Tenes"
+"316",NA
+"317",NA
+"319","Montgat"
+"320",NA
+"322","Ciutat Badia"
+"324",NA
+"325","Pineda de Mar"
+"326","Barcelona - 07G"
+"327","Barcelona - 08I"
+"328","L'Aldea - Camarles - l'Ampolla"
+"329","Lleida rural - 2 Sud"
+"330","Breda - Hostalric"
+"331","Barcelona - 10J"
+"333","Alt Camp Oest"
+"334","Almacelles"
+"335","Sant Andreu de Llavaneres"
+"336","Tordera"
+"337","Capellades"
+"338","Piera"
+"339","Salou"
+"340","Vila-seca"
+"341","Badalona - 07A"
+"342","Badalona - 07B"
+"343",NA
+"344","Sabadell - 4A"
+"345","Sabadell - 4B"
+"346","Sant Joan les Fonts"
+"347","La Vall d'en Bas"
+"348",NA
+"349",NA
+"350","Vic - 1"
+"351","Vic - 2"
+"352","Tarragona - 7"
+"353","Vilassar de Dalt"
+"354","La Selva del Camp"
+"355",NA
+"356","Terrassa - G"
+"357","Calafell"
+"358","Barcelona - 06E"
+"359","Cubelles - Cunit"
+"360","Martorell rural"
+"361","El Masnou - Alella"
+"362",NA
+"363",NA
+"364","Tarragona - 8"
+"365","Castelldefels - 1"
+"366","Castelldefels - 2"
+"367",NA
+"368","Santa Coloma de Gramenet - 6"
+"369","Corbera de Llobregat"
+"370","Abrera"
+"371","Igualada - 1"
+"372","Igualada - 2"
+"373","Begues"
+"374",NA
+"375",NA
+"376","Alt Mogent"
+"377","Roda de Ter"
+"378",NA
+"379","Lleida - 7"
+"380",NA
+"381","Montcada i Reixac - 1"
+"382","Montcada i Reixac - 2"
+"383","Barcelona - 03H"
+"384","Cerdanyola - Ripollet"
+"385","Barcelona - 08J"
+"386","Ripollet - 1"
+"387","Ripollet - 2"
+"388",NA
+"389",NA
+"390",NA
+"391",NA
+"392",NA
+"393","Ribes - Olivella"
+"394","Roquetes - Canyelles"
+"395","Barcelona - 09H"
+"396","Barcelona - 09I"
+"397",NA
+"398",NA
+"399","Castellbisbal"
+"400","Barcelona - 03I"
+"401","Viladecans - 3"
+"402","Barcelona - 08K"
+"403","Barcelona - 08L"
