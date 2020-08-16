@@ -29,8 +29,8 @@ Per tal d'entrar les dades has de tenir en compte principalment dues coses:
 | `Ciutats`         | [codis ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/02_relacio_Ciutats_201408.csv) i [exemple ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ciutats.txt)     | 
 | `Comarques`       | [codis comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/12_relacio_comarques_201408.csv) i [exemple comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/comarques.txt)  |
 | `Provincies`      | [codis provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/22_relacio_Provincia_201408.csv) i [exemple provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/provincia.txt)      | 
-| `ABS`             | [codis ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/32_relacio_ABS_201408.csv)  i [exemple ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ABS.txt)   |
-| `Regió sanitària` | [codis RS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/42_relacio_RS_201408.csv) i [exemple RS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/RS.txt)    | 
+| `ABS`             | [codis ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/42_relacio_ABS_201408.csv)  i [exemple ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ABS.txt)   |
+| `Regió sanitària` | [codis RS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/32_relacio_RS_201408.csv) i [exemple RS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/RS.txt)    | 
 
 ## Abans de començar
 
