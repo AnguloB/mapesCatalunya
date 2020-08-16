@@ -5,9 +5,7 @@ Per accedir a la app [https://angulobrunet.shinyapps.io/MapesCAT/](https://angul
 
 Aquesta aplicació s’ha creat per tal de poder crear mapes de Catalunya de forma relativament senzilla considerant diverses divisions territorials (municipis, comarques, províncies, àrees bàsiques de salut [ABS]  i regions sanitàries). 
 
-Per tal de fer municipis, comarques i províncies s’ha utilitzat la cartografia de [CatSalut](https://catsalut.gencat.cat/ca/coneix-catsalut/transparencia/territori/informacio-cartografica/mapes/"). En canvi per a fer les ABS i les regions sanitàries s’ha fet servir la base municipal del [Institut Cartogràfic i Geològic de Catalunya]( https://ide.cat/geonetwork/srv/cat/catalog.search#/metadata/base-municipal-5k-v2r1)
-
-Per a provincies s'ha fet servir dades de [arcgis](https://www.arcgis.com/home/item.html?id=83d81d9336c745fd839465beab885ab7)
+Per tal de fer municipis, comarques i províncies s’ha utilitzat la cartografia de [CatSalut](https://catsalut.gencat.cat/ca/coneix-catsalut/transparencia/territori/informacio-cartografica/mapes/"). En canvi per a fer les ABS i les regions sanitàries s’ha fet servir la base municipal del [Institut Cartogràfic i Geològic de Catalunya]( https://ide.cat/geonetwork/srv/cat/catalog.search#/metadata/base-municipal-5k-v2r1). Per a provincies s'ha fet servir dades de [arcgis](https://www.arcgis.com/home/item.html?id=83d81d9336c745fd839465beab885ab7). 
 
 Per dubtes o suggeriments pots posar-te en contacte amb mi a ariadna.angulo.brunet@gmail.com.
 
@@ -28,11 +26,11 @@ Per tal d'entrar les dades has de tenir en compte principalment dues coses:
 
 | Mapa              | Relació de codis i exemples | 
 | -------------     |-------------| 
-| `Ciutats`         | [codis ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_Ciutats_201408.csv) i [exemple ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ciutats.txt)     | 
-| `Comarques`       | [codis comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_comarques_201408.csv) i [exemple comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/comarques.txt)  |
-| `Provincies`      | [codis provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_Provincia_201408.csv) i [exemple provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/provincia.txt)      | 
-| `ABS`             | [codis ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_ABS_201408.csv)  i [exemple ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ABS.txt)   |
-| `Regió sanitària` | [codis RS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_RS_201408.csv) i [exemple RS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/RS.txt)    | 
+| `Ciutats`         | [codis ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/02_relacio_Ciutats_201408.csv) i [exemple ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ciutats.txt)     | 
+| `Comarques`       | [codis comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/12_relacio_comarques_201408.csv) i [exemple comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/comarques.txt)  |
+| `Provincies`      | [codis provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/22_relacio_Provincia_201408.csv) i [exemple provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/provincia.txt)      | 
+| `ABS`             | [codis ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/32_relacio_ABS_201408.csv)  i [exemple ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ABS.txt)   |
+| `Regió sanitària` | [codis RS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/42_relacio_RS_201408.csv) i [exemple RS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/RS.txt)    | 
 
 ## Abans de començar
 
