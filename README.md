@@ -11,7 +11,7 @@ Per a provincies s'ha fet servir dades de [arcgis](https://www.arcgis.com/home/i
 
 Per dubtes o suggeriments pots posar-te en contacte amb mi a ariadna.angulo.brunet@gmail.com.
 
-![imatge](https://github.com/AnguloB/mapesCatalunya/imatges/esquema.png)
+![imatge](https://github.com/AnguloB/mapesCatalunya/imatges/esquema.jpg)
 
 ##  El format
 
