@@ -11,7 +11,7 @@ Per a provincies s'ha fet servir dades de [arcgis](https://www.arcgis.com/home/i
 
 Per dubtes o suggeriments pots posar-te en contacte amb mi a ariadna.angulo.brunet@gmail.com.
 
-![imatge](https://github.com/AnguloB/mapesCatalunya/imatges/esquema.jpg)
+![imatge](https://github.com/AnguloB/mapesCatalunya/blob/master/imatges/esquema.jpg)
 
 ##  El format
 
@@ -28,11 +28,11 @@ Per tal d'entrar les dades has de tenir en compte principalment dues coses:
 
 | Mapa              | Relació de codis i exemples | 
 | -------------     |-------------| 
-| `Ciutats`         | [codis ciutats](https://github.com/AnguloB/mapesCatalunya/dades/01_relacio_Ciutats_201408.csv) i [exemple ciutats](https://github.com/AnguloB/mapesCatalunya/exemples/ciutats.txt)     | 
-| `Comarques`       | [codis comarques](https://github.com/AnguloB/mapesCatalunya/dades/01_relacio_comarques_201408.csv) i [exemple comarques](https://github.com/AnguloB/mapesCatalunya/exemples/comarques.txt)  |
-| `Provincies`      | [codis provincies](https://github.com/AnguloB/mapesCatalunya/dades/01_relacio_Provincia_201408.csv) i [exemple provincies](https://github.com/AnguloB/mapesCatalunya/exemples/provincia.txt)      | 
-| `ABS`             | [codis ABS](https://github.com/AnguloB/mapesCatalunya/dades/01_relacio_ABS_201408.csv)  i [exemple ABS](https://github.com/AnguloB/mapesCatalunya/exemples/ABS.txt)   |
-| `Regió sanitària` | [codis RS](https://github.com/AnguloB/mapesCatalunya/dades/01_relacio_RS_201408.csv) i [exemple RS](https://github.com/AnguloB/mapesCatalunya/exemples/RS.txt)    | 
+| `Ciutats`         | [codis ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_Ciutats_201408.csv) i [exemple ciutats](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ciutats.txt)     | 
+| `Comarques`       | [codis comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_comarques_201408.csv) i [exemple comarques](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/comarques.txt)  |
+| `Provincies`      | [codis provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_Provincia_201408.csv) i [exemple provincies](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/provincia.txt)      | 
+| `ABS`             | [codis ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_ABS_201408.csv)  i [exemple ABS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/ABS.txt)   |
+| `Regió sanitària` | [codis RS](https://github.com/AnguloB/mapesCatalunya/blob/master/codis/01_relacio_RS_201408.csv) i [exemple RS](https://github.com/AnguloB/mapesCatalunya/blob/master/exemples/RS.txt)    | 
 
 ## Abans de començar
 
